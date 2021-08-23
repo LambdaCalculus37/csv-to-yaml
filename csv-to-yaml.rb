@@ -3,6 +3,8 @@
 # Originally written by http://redartisan.com/tags/csv
 # Added and minor changes by Gavin Laking
 # Rewritten by Andrew Bennett for Ruby 1.9
+#
+# Modified by Robert Menes to output YAML
 # 
 # Usage: ruby csv_to_fixture.rb file.csv [--json]
 #
